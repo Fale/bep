@@ -1,0 +1,3 @@
+[submodule "canvass"]
+    path = canvass
+    url = https://github.com/Fale/canvass.git
