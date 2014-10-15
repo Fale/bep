@@ -1,6 +1,3 @@
 [submodule "canvas"]
     path = canvas
     url = https://github.com/Fale/canvas.git
-[submodule "projects"]
-	path = projects
-	url = https://github.com/Fale/projects.git
