@@ -12,5 +12,6 @@ urlpatterns = patterns('',
     url(r'^logout$', 'canvas.views.logout.user_logout'),
     url(r'^canvas/', include('canvas.urls')),
     url(r'^$', 'canvas.views.canvas.list'),
+    url(r'^project/', include('project.urls')),
 
 )
